@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Objectif du Lab
+##  Objectif du Lab
 L'objectif de ce projet est de concevoir et développer une solution complète de suivi de géolocalisation. L'architecture repose sur une application mobile Android capable de récupérer les coordonnées GPS de l'appareil et de les transmettre via des requêtes HTTP à une API backend en PHP. Les données sont ensuite stockées dans une base de données MySQL et restituées visuellement sur une carte interactive via l'API Google Maps.
 
 ## 🛠️ Architecture et Technologies Utilisées
@@ -15,7 +15,7 @@ L'objectif de ce projet est de concevoir et développer une solution complète d
 
 ---
 
-## 🚀 Étape 1 : Base de données (MySQL)
+##  Étape 1 : Base de données (MySQL)
 
 La première étape a consisté à préparer l'environnement de stockage. Nous avons créé une base de données nommée `localisation` contenant une table `position`. 
 
@@ -27,7 +27,7 @@ La structure de la table permet de stocker les informations essentielles du suiv
 
 ---
 
-## ⚙️ Étape 2 : Développement du Backend (API PHP)
+##  Étape 2 : Développement du Backend (API PHP)
 
 Le backend a été structuré en suivant les bonnes pratiques de séparation des préoccupations (Pattern DAO). L'arborescence du projet a été mise en place sur notre serveur local (Laragon).
 
@@ -65,7 +65,7 @@ L'interface principale affiche en temps réel les coordonnées captées par le t
 
 ---
 
-## 🗺️ Étape 4 : Intégration de Google Maps
+##  Étape 4 : Intégration de Google Maps
 
 La dernière phase du projet consiste à exploiter les données stockées pour les afficher visuellement. Nous avons intégré le SDK Google Maps pour Android.
 
@@ -85,5 +85,5 @@ La `MapsActivity` lance une requête via Volley vers notre script `showPositions
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 Ce laboratoire a permis de valider la maîtrise d'un flux de données complet "Full-Stack Mobile". De la captation hardware (puce GPS) à l'affichage cartographique, en passant par le transit réseau (HTTP/JSON) et la persistance des données (PHP/MySQL), l'ensemble de l'architecture communique avec succès.
