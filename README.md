@@ -7,7 +7,7 @@
 ##  Objectif du Lab
 L'objectif de ce projet est de concevoir et développer une solution complète de suivi de géolocalisation. L'architecture repose sur une application mobile Android capable de récupérer les coordonnées GPS de l'appareil et de les transmettre via des requêtes HTTP à une API backend en PHP. Les données sont ensuite stockées dans une base de données MySQL et restituées visuellement sur une carte interactive via l'API Google Maps.
 
-## 🛠️ Architecture et Technologies Utilisées
+##  Architecture et Technologies Utilisées
 * **Frontend Mobile :** Android (Java), interface XML, API Google Maps.
 * **Réseau / API HTTP :** Bibliothèque Volley (requêtes POST/GET).
 * **Backend Serveur :** PHP 8 (Architecture Modèle, DAO, Service), requêtes préparées PDO.
