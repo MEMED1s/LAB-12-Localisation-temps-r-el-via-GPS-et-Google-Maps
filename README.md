@@ -21,7 +21,8 @@ La première étape a consisté à préparer l'environnement de stockage. Nous a
 
 La structure de la table permet de stocker les informations essentielles du suivi : un identifiant unique, la latitude, la longitude, la date et l'heure exactes du relevé, ainsi que l'identifiant unique de l'appareil (IMEI ou Android ID).
 
-<img width="595" height="232" alt="s6" src="https://github.com/user-attachments/assets/bee2ece3-28af-4f54-a1a7-7573761b0199" />
+<img width="1923" height="818" alt="m5" src="https://github.com/user-attachments/assets/c39e44c4-0ecc-4311-ae3b-859ea4e2d545" />
+
 
 *Figure 1 : Table `position` initialisée et prête à recevoir les données.*
 
