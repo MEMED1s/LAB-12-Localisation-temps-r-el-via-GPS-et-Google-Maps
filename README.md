@@ -44,7 +44,7 @@ Le backend a été structuré en suivant les bonnes pratiques de séparation des
 
 ---
 
-## 📱 Étape 3 : Application Android (GPS et Volley)
+##  Étape 3 : Application Android (GPS et Volley)
 
 L'application Android est le cœur de la collecte de données. 
 
