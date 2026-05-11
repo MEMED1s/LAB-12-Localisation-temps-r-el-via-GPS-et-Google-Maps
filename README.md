@@ -58,7 +58,8 @@ L'application Android est le cœur de la collecte de données.
 
 L'interface principale affiche en temps réel les coordonnées captées par le téléphone avant leur envoi vers le serveur.
 
-<img width="1336" height="567" alt="s3" src="https://github.com/user-attachments/assets/e7af1ca6-2616-4f30-ab4a-43fd8bfc6c0c" />
+<img width="471" height="597" alt="s2" src="https://github.com/user-attachments/assets/90a55be8-b1f9-4568-bac3-67541bd4d6f4" />
+
 
 *Figure 4 : Interface principale affichant la latitude et la longitude récupérées.*
 
